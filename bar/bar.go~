@@ -1,0 +1,11 @@
+package bar
+
+import (
+	"fmt"
+
+	bar "github.com/sttts/dep-bar"
+)
+
+func FooBar() {
+	bar.Bar()
+}
